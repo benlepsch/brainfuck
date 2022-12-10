@@ -1,5 +1,5 @@
 default:
-	python3 onelinerize.py max.bf
+	python3 onelinerize.py if5.bf
 	beef bf.out
 
 test:

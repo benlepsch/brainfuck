@@ -1,3 +1,12 @@
+'''
+    reformats multi line brainfuck file into one line + removes comments as well
+
+    ex:
+    python3 onelinerize.py helloworld.bf (output defaults to bf.out)
+    python3 onelinerize.py helloworld.bf hello.out (specify output name)
+'''
+
+
 import sys
 
 infile = ''
