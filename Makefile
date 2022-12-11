@@ -1,5 +1,5 @@
 default:
-	python3 onelinerize.py if2.bf
+	python3 onelinerize.py read_int.bf
 	beef bf.out
 
 test:
