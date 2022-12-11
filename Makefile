@@ -10,8 +10,8 @@ if2:
 	python3 onelinerize.py if2.bf
 	beef bf.out
 
-max:
-	python3 onelinerize.py max.bf
+maxchar:
+	python3 onelinerize.py max_char.bf
 	beef bf.out
 
 readint:
